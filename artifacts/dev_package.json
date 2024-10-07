@@ -1,0 +1,51 @@
+{
+	"id": "cb2dd911-c684-ef11-8473-000d3ad94455",
+	"createdAt": "2024-10-07T16:06:11.953Z",
+	"createdBy": "ian.cruz@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/ianneptune/neptune-daydev-package.git"
+	},
+	"name": "neptune-daydev-package",
+	"description": null,
+	"ver": "24.10.07.1619",
+	"enableCICD": true,
+	"apps": [
+		{
+			"id": "18de87e7-c684-ef11-8473-000d3ad94455",
+			"application": "neptunedaydevpackage",
+			"title": "",
+			"description": "",
+			"package": {
+				"id": "CB2DD911-C684-EF11-8473-000D3AD94455"
+			}
+		}
+	],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": []
+}
