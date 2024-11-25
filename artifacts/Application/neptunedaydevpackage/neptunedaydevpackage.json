@@ -33,6 +33,13 @@
 					"response": [],
 					"attributes": [
 						{
+							"attribute": "title",
+							"grouping": "Properties",
+							"value": "MY HR Application",
+							"script": "",
+							"translation": []
+						},
+						{
 							"attribute": "showNavButton",
 							"grouping": "Properties",
 							"value": true,
@@ -9407,7 +9414,7 @@
 		}
 	],
 	"componentInterface": [],
-	"ver": "24.10.07.1621",
+	"ver": "24.11.25.0630",
 	"application": "neptunedaydevpackage",
 	"title": "",
 	"description": "",
